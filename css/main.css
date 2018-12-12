@@ -71,7 +71,7 @@ p {
   background-color: #000;
 }
 
-.btnbig {
+.btn-big {
   color: #fff;
   text-decoration: none;
   padding: .5em .4em;
@@ -80,6 +80,6 @@ p {
   font-size: 1.5rem;
 }
 
-.btnbig:hover {
+.btn-big:hover {
   background-color: #000;
 }
